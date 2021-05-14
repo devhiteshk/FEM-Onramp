@@ -5,7 +5,7 @@ module.exports = {
     description: 'FEM-Onramp',
     base: "/FEM-Onramp/",
     head: [
-        ['link', { rel: 'stylesheet', href: "<link rel='preconnect' href='https://fonts.googleapis.com/css2?family=Gugi&display=swap'>" }],
+        ['link', { rel: 'stylesheet', href: "<link href='https://fonts.googleapis.com/css2?family=Satisfy&display=swap' rel='stylesheet'>" }],
         ['link', { rel: "derive-science-icon", sizes: "180x180", href: "/mesh.png" }],
     ],
     themeConfig: {
