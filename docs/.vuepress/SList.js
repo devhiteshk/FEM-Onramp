@@ -15,6 +15,6 @@ exports.BEList = [
     'BAR_Element/'
 ]
 
-exports.BeamEListt = [
+exports.BeamEList = [
     'Beam_Element/'
 ]
