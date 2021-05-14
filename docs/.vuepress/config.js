@@ -1,12 +1,12 @@
 var SList = require("./SList");
 
 module.exports = {
-    title: '🚀Derive-Science',
+    title: 'Derive-Science',
     description: 'FEM-Onramp',
     base: "/FEM-Onramp/",
     head: [
         ['link', { rel: 'stylesheet', href: "<link href='https://fonts.googleapis.com/css2?family=Satisfy&display=swap' rel='stylesheet'>" }],
-        ['link', { rel: "derive-science-icon", sizes: "180x180", href: "/mesh.png" }],
+        ['link', { rel: 'icon', href: '/mesh.png' }],
     ],
     themeConfig: {
         nav: [
